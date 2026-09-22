@@ -16,7 +16,7 @@ The application allows users to add new tasks and delete existing tasks. The mai
 * 🌐 Simple browser-based application
 * 💡 Beginner-friendly JavaScript implementation
 
----
+
 
 ## 🛠️ Technologies Used
 
